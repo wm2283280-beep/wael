@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Calendar Ledger",
+  "description": "A calendar-based calculator to track daily financial entries. Add or subtract numbers for each day of the month and see a running total. Your data is saved locally in your browser.",
+  "requestFramePermissions": []
+}
